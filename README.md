@@ -24,7 +24,7 @@ Extras: React-To-Print
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/jigar-sable](https://www.linkedin.com/in/muhammad-hussain-78b625254)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/muhammad-hussain-78b625254])
 
 © 2024-25 Muhammad Hussain
 
